@@ -1,0 +1,6 @@
+VOTANTES|1
+VOTANTE|GARC000101HDFABC09|Juan|García|López|25|3|5551234567|juan@mail.com
+DIRV|Calle Falsa 123|Entre X y Y|Colonia Centro
+DEPS|1
+DEP|LOPE100101MDFXYZ02|Pedro|López|Martínez|15
+DIRD|Calle Secundaria 45|Esquina Norte y Sur|Colonia Joven

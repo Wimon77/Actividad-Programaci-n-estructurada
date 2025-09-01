@@ -1,0 +1,27 @@
+1
+GARC000101HDFABC09
+Juan
+García
+López
+25
+3
+5551234567
+5551234567
+juan@mail.com
+juan@mail.com
+Calle Falsa 123
+Entre X y Y
+Colonia Centro
+4
+GARC000101HDFABC09
+LOPE100101MDFXYZ02
+Pedro
+López
+Martínez
+15
+Calle Secundaria 45
+Esquina Norte y Sur
+Colonia Joven
+8
+9
+
